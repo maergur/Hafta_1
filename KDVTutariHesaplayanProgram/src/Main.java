@@ -10,6 +10,7 @@ public class Main {
 
         float kdv_0, kdv_18 = 1.18f, kdv_08 = 1.08f;
 
+        
         System.out.print("Lütfen KDV'siz fiyatı giriniz: ");
 
         kdv_0 = inp.nextFloat();
