@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hafta_1.iml" filepath="$PROJECT_DIR$/.idea/Hafta_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KDVTutariHesaplayanProgram/KDVTutariHesaplayanProgram.iml" filepath="$PROJECT_DIR$/KDVTutariHesaplayanProgram/KDVTutariHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotOrtalamasiProgrami/NotOrtalamasiProgrami.iml" filepath="$PROJECT_DIR$/NotOrtalamasiProgrami/NotOrtalamasiProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaBootcamp/PatikaBootcamp.iml" filepath="$PROJECT_DIR$/PatikaBootcamp/PatikaBootcamp.iml" />
+    </modules>
+  </component>
+</project>
