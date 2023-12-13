@@ -23,6 +23,7 @@ public class Main {
         System.out.print("Kaç kilo patlıcan aldınız? ");
         patlican_kg = inp.nextDouble();
 
+        // Tutar formülü
         double total = armut * armut_kg + elma * elma_kg + domates * domates_kg + muz * muz_kg + patlican * patlican_kg;
         System.out.println("Toplam Tutar: " + total + " TL");
 
