@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        // Değişkenler tanımlandı.
         double kg, m, vke;
 
         Scanner inp = new Scanner(System.in);
@@ -15,7 +16,6 @@ public class Main {
         // Formül = Kilo (kg) / Boy(m) * Boy(m)
 
         vke = kg / (m*m);
-
         System.out.println("Vücut kitle endeksiniz: " + vke);
 
     }
