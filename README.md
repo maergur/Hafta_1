@@ -1,3 +1,3 @@
-# Hafta_1
+# week-1
 
-Patika+ 1. hafta Java 101 ödevleri.
+Patika+ Java 101 projects.
