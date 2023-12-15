@@ -28,7 +28,7 @@ public class Main {
 
         // Mesafe tutarını hesaplıyoruz ve yaşa göre indirim için koşulları yazıyoruz.
 
-        if (km > 0 && age > 0){
+        if (km > 0 && age > 0 && (flightType < 3 && flightType > 0)){
 
             if (flightType == 1){
                 if(age < 12){
