@@ -32,7 +32,7 @@ public class Main {
         }
 
         else {
-            System.out.println(year +" Artık bir yıl değildir.");
+            System.out.println(year +"Artık bir yıl değildir.");
         }
 
 
