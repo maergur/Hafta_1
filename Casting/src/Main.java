@@ -14,10 +14,10 @@ public class Main {
         decimal = inp.nextDouble();
 
         double castedInteger = (double) integer;
-        System.out.println("Dönüşen tam sayı yazınız: " +castedInteger);
+        System.out.println("Dönüşen tam sayı sayınız: " +castedInteger);
 
         int castedDouble = (int) decimal;
-        System.out.println("Dönüşen ondalık yazınız: " + castedDouble);
+        System.out.println("Dönüşen ondalık sayınız: " + castedDouble);
 
     }
 }
